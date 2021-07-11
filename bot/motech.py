@@ -1,5 +1,5 @@
 # Update
-MT_BOT_UPDATES = "t.me/Mo_tech_YT"
+SRS MC = "t.me/srsuggestionsmc"
 # Your Main Channel
-BOT_UPDATES = "t.me/Mo_Tech_YT"
+SRS CHANNEL = "t.me/srsuggestionsofficial"
 
