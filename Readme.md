@@ -8,7 +8,7 @@
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/AutoFilterV4/musu/fork">
     <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
@@ -86,7 +86,7 @@ python3 -m bot
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_Tech_yt)
 
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/srsuggestionsofficial) For Support/Assistance And Our [Channel](https://www.telegram.dog/srsuggestionsmc) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
