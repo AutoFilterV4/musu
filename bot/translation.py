@@ -8,13 +8,7 @@ class Translation(object):
 
 <b>I am a DEVIL....😜</b>
 
-<b>Make me an admin for your group and channel then connect me....🎉</b>
-
-<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>Press /help Hehehehh</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
