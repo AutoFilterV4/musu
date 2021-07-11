@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 JOIN MOVIE GROUP 🔊', url=f"{srsuggestionsmc}"
+                                    '🔊 JOIN MOVIE GROUP 🔊', url="https://t.me/srsuggestionsmc"
                                 )
                         ]
                     ]
@@ -164,7 +164,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 Mrk YT👤', url='https://t.me/punisherofc'),
+        InlineKeyboardButton('👤 PUNISHER 👤', url='https://t.me/punisherofc'),
         InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
     ],[
         InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
