@@ -64,12 +64,6 @@ async def start(bot, update):
                                 (
                                     '🔔Join Main Channel🔔', url=f"{MT_CHANNEL}"
                                 )
-                        ],
-                        [
-                            InlineKeyboardButton
-                                (
-                                    '🔊 JOIN MOVIE GROUP 🔊', url="https://t.me/srsuggestionsmc"
-                                )
                         ]
                     ]
                 )
