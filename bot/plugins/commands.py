@@ -9,9 +9,7 @@ from bot import Translation # pylint: disable=import-error
 from bot.database import Database # pylint: disable=import-error
 from bot import UPDATE_CHANNEL # Update Text Message Channel Update
 from bot import MRK_YT_MASTER
-from bot import MT_GROUP
 from bot import MT_CHANNEL # Main Channel Added
-from bot.motech import MT_BOT_UPDATES
 
 db = Database()
 
