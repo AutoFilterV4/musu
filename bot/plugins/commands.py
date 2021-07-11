@@ -68,7 +68,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔊 Bot Updates 🔊', url=f"{MT_BOT_UPDATES}"
+                                    '🔊 JOIN MOVIE GROUP 🔊', url=f"{srsuggestionsmc}"
                                 )
                         ]
                     ]
@@ -87,7 +87,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/punisherofc"
                                 )
                         ]
                     ]
@@ -106,7 +106,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/Mo_TECH_YT"
+                                    '👨‍💼 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 👨‍💼', url="https://t.me/punisherofc"
                                 )
                         ]
                     ]
@@ -119,10 +119,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/{MRK_YT_MASTER}'),
+        InlineKeyboardButton('👨‍💼Creater', url=f'https://t.me/{punisherofc}'),
         InlineKeyboardButton('Help 🤔', callback_data="help")
     ],[
-        InlineKeyboardButton('🗣️Group', url=f'{MT_GROUP}'),
+        InlineKeyboardButton('🗣️Group', url=f'{srsuggestionsofficial}'),
         InlineKeyboardButton('Channel🔊', url=f'{MT_CHANNEL}')
     ],[
         InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
@@ -164,7 +164,7 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 Mrk YT👤', url='https://t.me/MRK_YT'),
+        InlineKeyboardButton('👤 Mrk YT👤', url='https://t.me/punisherofc'),
         InlineKeyboardButton('Skp KP👤', url='https://t.me/Skp_Kp')
     ],[
         InlineKeyboardButton('👤 AlbertEinstein 👤', url='https://t.me/AlbertEinsteinTG')
